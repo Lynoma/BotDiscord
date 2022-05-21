@@ -13,7 +13,7 @@ from keep_alive import keep_alive
 
 intents = discord.Intents.all()
 
-TOKEN = 'ODY3NjczMzM4NjI0NjA2MjQ4.YPkhxA.QymQlTTCZbVsVWgPgrL-S7JeMD4'
+TOKEN = '*'
 GUILD = 'Comrade Cooked Chicken Party'
 
 client = discord.Client(intents= intents)
